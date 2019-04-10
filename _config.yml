@@ -38,18 +38,18 @@ analytics:
 # Site Author
 author:
   name             : "L Koria"
-  avatar           : 
+  avatar           : "profile.jpg"
   bio              : "2nd Year PhD student"
   location         : "UK"
-  employer         : "[University webpage](https://regenerative-medicine.leeds.ac.uk/profiles/lekha-koria/)"
+  employer         : "UoL"
   pubmed           : 
   googlescholar    : "[Google Scholar Profile](https://scholar.google.co.uk/citations?user=gKwgwCAAAAAJ&hl=en&oi=sra)"
   email            : "mnllk@leeds.ac.uk"
-
   github           : "tepunga"
   instagram        : "laxmi_42"
   linkedin         : "lekhakoria"
   steam            : "lekha2611"
+  
 
 
 # Reading Files
