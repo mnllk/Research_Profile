@@ -1,5 +1,4 @@
 ---
-conferences/
 title: "Conferences"
 excerpt: "Blah"
 author_profile: true
