@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a my personal website...
 
-Title...
 ======
-In progress!
-
+In progress! Quite new to Github but enjoying the setup of this webpage. Watch this space! 
+In the meantime...head over to Twitter and follow the handle #iMBEAnkles to see research group updates. 
 
 
 For more info
