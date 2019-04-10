@@ -15,4 +15,4 @@ In the meantime...head over to Twitter and follow the handle #iMBEAnkles to see 
 
 For more info
 ------
-More info about me [here](https://regenerative-medicine.leeds.ac.uk/profiles/lekha-koria/). 
+University webpage with more information about me and my research [here](https://regenerative-medicine.leeds.ac.uk/profiles/lekha-koria/). 
